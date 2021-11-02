@@ -1,0 +1,3 @@
+[submodule "Snap-Challenges"]
+	path = Snap-Challenges
+	url = git@github.com:JacobA2000/Snap-Challenges.git
